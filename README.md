@@ -1,1 +1,6 @@
 # CATMAN-REST
+
+Requiremens:
+  -FASTAPI
+  -MYSQL-CONNECTOR-PYTHON
+  -PYTHON3.6^
